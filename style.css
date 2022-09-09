@@ -1,0 +1,40 @@
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Lobster', cursive;
+}
+
+.note
+{
+    font-size: 18px;
+    color: yellow;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    width: 100%;
+    bottom: 0;
+    line-height: 2;
+    background-color: #a3f0a3;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
